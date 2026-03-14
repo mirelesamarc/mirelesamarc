@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Marc, a Cybersecurity student based in Dallas, Texas.
 
